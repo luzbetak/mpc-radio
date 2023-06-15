@@ -1,6 +1,13 @@
 Internet Radio
 ==============
 
+### Start Stop Service 
+```
+brew services start mpd
+brew services stop mpd
+```
+
+
 ### Save Playlist 
 ```
 mpc add http://stream.funradio.sk:8000/fun128.mp3
