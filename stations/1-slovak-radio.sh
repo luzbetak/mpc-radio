@@ -3,6 +3,7 @@
 # https://www.internet-radio.com/stations/techno/page2
 mpc clear
 
+mpc add https://stream.sepia.sk:8000/viva320.mp3            # Rádio Viva House Music Slovakia Bratislava
 mpc add http://stream.funradio.sk:8000/fun128.mp3
 mpc add http://live.slovakradio.sk:8000/FM_256.mp3
 mpc add http://live.slovakradio.sk:8000/Slovensko_256.mp3
